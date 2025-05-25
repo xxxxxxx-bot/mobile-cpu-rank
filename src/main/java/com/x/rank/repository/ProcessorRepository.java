@@ -1,7 +1,7 @@
 package com.x.rank.repository;/*
-package com.lq.es.repository;
+package com.x.es.repository;
 
-import com.lq.es.entity.Processor;
+import com.x.es.entity.Processor;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 import org.springframework.stereotype.Repository;
 

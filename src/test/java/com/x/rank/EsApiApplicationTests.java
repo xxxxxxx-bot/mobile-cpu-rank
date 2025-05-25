@@ -1,4 +1,4 @@
-//package com.lq.rank;
+//package com.x.rank;
 //
 //import com.fasterxml.jackson.databind.ObjectMapper;
 //import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;
@@ -34,7 +34,7 @@
 //import java.util.List;
 //
 //@SpringBootTest
-//class LqEsApiApplicationTests {
+//class xEsApiApplicationTests {
 //
 //    @Autowired
 //    private ElasticsearchRestTemplate elasticsearchRestTemplate;

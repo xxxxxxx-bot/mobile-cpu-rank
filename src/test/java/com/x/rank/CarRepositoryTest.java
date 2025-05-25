@@ -1,6 +1,6 @@
-//package com.lq.rank;
+//package com.x.rank;
 //
-//import com.lq.rank.entity.Car;
+//import com.x.rank.entity.Car;
 //import org.junit.jupiter.api.Test;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.boot.test.context.SpringBootTest;
