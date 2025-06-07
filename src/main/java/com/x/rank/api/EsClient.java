@@ -26,7 +26,7 @@ public class EsClient {
 //                new RestHighLevelClient(RestClient.builder(new HttpHost("192.168.186.129", 9200, "http")));
 //        restHighLevelClient.close();
         String serverUrl = "xxxxx";
-        String apiKey = "xxx";
+        String apiKey = "xxxxxx";
 
 // Create the low-level client
         RestClient restClient = RestClient
